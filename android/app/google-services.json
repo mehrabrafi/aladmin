@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "638271612969",
+    "project_id": "diniuttor",
+    "storage_bucket": "diniuttor.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:638271612969:android:4d98c1a62070be030b9438",
+        "android_client_info": {
+          "package_name": "com.example.admin_din"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBB44mEaoFNwtoLTH6D0avJveQIumyvkHY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:638271612969:android:cd79a024c569d05c0b9438",
+        "android_client_info": {
+          "package_name": "com.example.alemer_jobab"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBB44mEaoFNwtoLTH6D0avJveQIumyvkHY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
